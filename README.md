@@ -1,3 +1,1 @@
-# Mehdi Ferhat
-
 ## Mémoires
