@@ -3,7 +3,5 @@
 <br>
 <a href="MMBA.pdf" target="_blank"> Bayesian information criteria and ARMA processes : Performance analysis by Monte-Carlo methods.</a>
 
-## Python'work
 
-## R
 
