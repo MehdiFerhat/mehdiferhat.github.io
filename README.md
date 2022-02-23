@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MehdiFerhat/mehdiferhat.github.io/main/1641675416483.png" />
+
 <a 
    href="https://www.linkedin.com/in/mehdi-ferhat/"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
