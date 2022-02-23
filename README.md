@@ -1,4 +1,4 @@
-Interrested in Machine Learning and Quantitative Finance
+Student interested in machine learning and quantitative finance
 
 ## Thesis
 <a href="MMW.pdf" target="_blank"> Monte-Carlo Methods : An application to the White Test for Heteroskedacity.</a>
