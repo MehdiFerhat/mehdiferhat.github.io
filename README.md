@@ -8,7 +8,16 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
 </a>
 
-
+<p float="left">
+ <a
+  href="https://www.linkedin.com/in/mehdi-ferhat/"> 
+  <img src="/img1.png" width="100" />
+ <a
+  <img src="/img2.png" width="100" /> 
+ <a
+  <img src="/img3.png" width="100" />
+ </a>
+</p>
 
 
 Student interested in Machine Learning and Quantitative Finance.
