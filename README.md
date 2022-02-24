@@ -16,3 +16,4 @@ Student interested in Machine Learning and Quantitative Finance.
 - `R`  
 - `Matlab`  
 - `SAS IML`  
+- `LaTeX`
